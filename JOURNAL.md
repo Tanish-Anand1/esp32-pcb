@@ -20,8 +20,13 @@ This custom ESP32 gamepad offers a cost-effective, wireless controller option, s
 ![Schematic.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Njk2LCJwdXIiOiJibG9iX2lkIn19--bc8197b4a3eaac4d346a3ce96f009632119051cd/Schematic.png)
               
 
-## 10/30/2025 - I am think To add a option to play it on a big screen  
+## 10/30/2025 12:17 AM - I am think To add a option to play it on a big screen  
 
 The Play on Big Screen option allows users to seamlessly stream or mirror their app or website experience onto a larger display such as a smart TV, projector, or external monitor. This feature enhances visibility and engagement, making it ideal for presentations, group activities, or immersive viewing. Users can connect via wireless options like Chromecast, Miracast, or AirPlay, or through HDMI for wired setups.![Retro-Game-Console-PCB-3D-Design](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUxNywicHVyIjoiYmxvYl9pZCJ9fQ==--c8f4d692fe587d44d79b7f233c8014c121aef4ef/Retro-Game-Console-PCB-3D-Design.jpg)
+  
+
+## 10/30/2025 12:19 AM - It will be comming with adaptive triggers  
+
+The Play on Big Screen feature will allow users to enjoy their experience on larger displays like TVs or projectors for enhanced immersion. It will be coming with adaptive triggers, providing dynamic resistance and tactile feedback that respond to user actions — making interactions feel more realistic and engaging.![Retro-Game-Console-PCB-3D-Design](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--d556f657ef3f417c4e6e1462d060dcbcd7310833/Retro-Game-Console-PCB-3D-Design.jpg)
   
 
