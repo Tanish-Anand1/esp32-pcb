@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **PCB ESP32**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/230).
-
-
 ## 10/6/2025 - I have created a ESP32 custom gamepad PCB  
 
 Creating a custom ESP32-based gamepad PCB combines hardware design and embedded programming to deliver a versatile and wireless controller solution. The ESP32 microcontroller was chosen for its dual-core processor, integrated Wi-Fi and Bluetooth capabilities, and ample GPIO pins, making it ideal for HID (Human Interface Device) applications like gamepads.
@@ -23,4 +19,9 @@ Firmware is developed using the Arduino IDE or ESP-IDF, leveraging libraries lik
 This custom ESP32 gamepad offers a cost-effective, wireless controller option, suitable for DIY gaming setups, emulators, or custom robotics control, with expandability for future input or output features.
 ![Schematic.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Njk2LCJwdXIiOiJibG9iX2lkIn19--bc8197b4a3eaac4d346a3ce96f009632119051cd/Schematic.png)
               
+
+## 10/30/2025 - I am think To add a option to play it on a big screen  
+
+The Play on Big Screen option allows users to seamlessly stream or mirror their app or website experience onto a larger display such as a smart TV, projector, or external monitor. This feature enhances visibility and engagement, making it ideal for presentations, group activities, or immersive viewing. Users can connect via wireless options like Chromecast, Miracast, or AirPlay, or through HDMI for wired setups.![Retro-Game-Console-PCB-3D-Design](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUxNywicHVyIjoiYmxvYl9pZCJ9fQ==--c8f4d692fe587d44d79b7f233c8014c121aef4ef/Retro-Game-Console-PCB-3D-Design.jpg)
+  
 
